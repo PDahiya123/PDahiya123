@@ -6,7 +6,7 @@
 
 -  A little bit about me:
 
-🔭 I’m currently in Final year studying Chemical Engineering at IIT Guwahati
+🔭 Graduated from IIT Guwahati
 
 🌱 I’m a fullstack web developer.
 
